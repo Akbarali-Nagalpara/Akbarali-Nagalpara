@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="profile/hero-glow.svg" width="100%" alt="Ambient Glow" />
+  <img src="./profile/hero-glow.svg?raw=true" width="100%" alt="Ambient Glow" />
 </div>
 
 <div align="left" style="margin-top: -80px; position: relative;">
 
 <code>● AVAILABLE FOR OPPORTUNITIES</code><br><br>
 
-# Hi, I'm Akbarali.
-# A Backend engineer.
+<h1 style="border-bottom: none; font-size: 2.5em; margin-bottom: 0;">Hi, I'm Akbarali.</h1>
+<h1 style="border-bottom: none; font-size: 2.5em; margin-top: 0;">A Backend engineer.</h1>
 
 <p style="font-size: 16px; color: #8b949e; line-height: 1.6;">
   Backend-focused developer passionate about scalable systems,<br>
@@ -26,7 +26,7 @@
 <br><br><br>
 
 <div align="center">
-  <img src="profile/bento-grid.svg" width="100%" alt="Engineering Focus Bento Grid" />
+  <img src="./profile/bento-grid.svg?raw=true&v=2" width="100%" alt="Engineering Focus Bento Grid" />
 </div>
 
 <br><br><br>
@@ -73,8 +73,8 @@
 </p>
 
 <div align="center">
-  <img src="profile/top-langs.svg" width="48%" alt="Top Languages"/>
-  <img src="profile/stats.svg" width="48%" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg?raw=true" width="48%" alt="Top Languages"/>
+  <img src="./profile/stats.svg?raw=true" width="48%" alt="GitHub Stats"/>
 </div>
 
 <br><br><br>
