@@ -1,0 +1,68 @@
+name: Generate GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run daily
+  workflow_dispatch:
+  push:
+    branches:
+      - main # Temporary trigger to populate SVGs on push
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create profile directory
+        run: mkdir -p profile
+
+      - name: Fetch and validate SVGs
+        run: |
+          fetch_svg() {
+            local url=$1
+            local output=$2
+            
+            echo "Fetching $url..."
+            # Fetch with curl, capture HTTP status code
+            response=$(curl -s -w "%{http_code}" -o temp.svg "$url")
+            
+            if [ "$response" != "200" ]; then
+              echo "Error: Failed to fetch $url. HTTP status: $response"
+              exit 1
+            fi
+            
+            if [ ! -s temp.svg ]; then
+              echo "Error: Downloaded file is empty"
+              exit 1
+            fi
+            
+            if ! grep -q -i "<svg" temp.svg; then
+              echo "Error: Downloaded file is not a valid SVG"
+              exit 1
+            fi
+            
+            mv temp.svg "$output"
+            echo "Successfully generated $output"
+          }
+          
+          # Use github-readme-stats to generate stats locally in CI
+          fetch_svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=transparent" profile/stats.svg
+          fetch_svg "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=transparent" profile/top-langs.svg
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: Update GitHub stats SVGs"
+            git push
+          fi

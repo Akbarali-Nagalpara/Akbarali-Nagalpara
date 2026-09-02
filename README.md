@@ -1,14 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Akbarali
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=header" alt="Header Wave"/>
+
+# Hi, I'm Akbarali 👋
 
 ### Backend Engineer · Full-Stack Developer · System Design Enthusiast
 
 I build reliable backend systems, scalable APIs, and full-stack applications.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header"/>
 
 </div>
 
@@ -16,13 +14,12 @@ I build reliable backend systems, scalable APIs, and full-stack applications.
 
 <div align="center">
 
-## ⚡ Engineering Focus
+## 🧠 Engineering Focus
 
-| 🏗️ Backend | 🌐 Full Stack | 🗄️ Data | 🧩 Architecture |
+| 🏗️ Backend Engineering | 🌐 Full-Stack Development | 🗄️ Database Design | 🧩 System Design |
 |:---:|:---:|:---:|:---:|
-| APIs & Services | React Applications | Database Design | System Design |
-| Spring Boot | JavaScript | MySQL | Scalable Systems |
-| Authentication | Modern UI | Supabase | Distributed Systems |
+| Building robust APIs | Creating seamless UI/UX | Optimized data models | Scalable architecture |
+| Authentication & AuthZ | Connecting frontend to backend | SQL & NoSQL solutions | Performance tuning |
 
 </div>
 
@@ -32,9 +29,9 @@ I build reliable backend systems, scalable APIs, and full-stack applications.
 
 ## 🛠️ Tech Stack
 
-</div>
+<br/>
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="140">
 
@@ -95,67 +92,54 @@ I build reliable backend systems, scalable APIs, and full-stack applications.
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
 ## 🚀 What I Like Building
 
+<br/>
+
 <table>
 <tr>
-<td align="center" width="220">
+<td align="center" width="250">
 
-### 🔌
-**Backend APIs**
-
-Designing clean and reliable APIs and services.
+### 🔌 Backend APIs
+Designing clean, reliable, and secure APIs and services.
 
 </td>
+<td align="center" width="250">
 
-<td align="center" width="220">
-
-### 🏗️
-**System Design**
-
-Understanding how systems scale and communicate.
+### 🏗️ Scalable Systems
+Understanding how systems scale, communicate, and handle load.
 
 </td>
+<td align="center" width="250">
 
-<td align="center" width="220">
-
-### 🗄️
-**Data Systems**
-
-Designing efficient databases and data models.
+### 🗄️ Database-Driven Apps
+Designing efficient databases and data models for optimal performance.
 
 </td>
 </tr>
-
 <tr>
 <td align="center">
 
-### 🔐
-**Secure Systems**
-
-Authentication, authorization and access control.
+### 🔐 Secure Applications
+Implementing robust authentication, authorization, and access control.
 
 </td>
-
 <td align="center">
 
-### ⚡
-**Performance**
-
-Building applications with reliability and efficiency in mind.
+### ⚡ Performance-Focused
+Building software with reliability and efficiency in mind.
 
 </td>
-
 <td align="center">
 
-### 💻
-**Full Stack**
-
-Connecting backend architecture with clean interfaces.
+### 💻 Full-Stack Architecture
+Connecting backend logic with clean and intuitive user interfaces.
 
 </td>
 </tr>
@@ -167,41 +151,39 @@ Connecting backend architecture with clean interfaces.
 
 <div align="center">
 
-## 📊 GitHub Activity
-
-<br/>
-
-<img
-  src="./profile/stats.svg"
-  alt="GitHub Statistics"
-/>
-
-<img
-  src="./profile/top-langs.svg"
-  alt="Most Used Languages"
-/>
-
-<br/>
-
-<img
-  src="./profile/streak.svg"
-  alt="GitHub Contribution Streak"
-/>
+## 🚀 Featured Projects
 
 </div>
+
+### Project One
+Short explanation of the problem and solution for this backend API project.
+<br/>
+`Java` `Spring Boot` `MySQL`
+<br/>
+[View Project →](#)
+
+<br/>
+
+### Project Two
+Short explanation of the problem and solution for this full-stack application.
+<br/>
+`React` `JavaScript` `Supabase`
+<br/>
+[View Project →](#)
 
 ---
 
 <div align="center">
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Activity
 
 <br/>
 
-<img
-  src="./profile/trophies.svg"
-  alt="GitHub Trophies"
-/>
+<img src="./profile/stats.svg" alt="GitHub Statistics"/>
+
+<br/><br/>
+
+<img src="./profile/top-langs.svg" alt="Most Used Languages"/>
 
 </div>
 
@@ -211,13 +193,40 @@ Connecting backend architecture with clean interfaces.
 
 ## 📌 Currently Exploring
 
-```text
-System Design
-      ↓
-Backend Architecture
-      ↓
-Distributed Systems
-      ↓
-Database Optimization
-      ↓
-Scalable Applications
+<br/>
+
+**System Design** ➔ **Backend Architecture** ➔ **Distributed Systems** ➔ **Database Optimization** ➔ **Scalable Applications**
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Engineering Philosophy
+
+<br/>
+
+> **Build → Understand → Improve → Repeat**
+
+I enjoy learning by building real systems from the ground up and iteratively improving them to solve complex engineering challenges.
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akbarali-Nagalpara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" alt="Footer Wave"/>
+
+</div>
