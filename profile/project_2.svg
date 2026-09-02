@@ -1,0 +1,17 @@
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+    <rect x="1" y="1" width="398" height="198" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <text x="30" y="45" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#c9d1d9" text-anchor="start">Ecommerce-Store</text>
+    <text x="30" y="75" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="normal" fill="#8b949e" text-anchor="start">Scalable e-commerce backend</text>
+    <text x="30" y="95" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="normal" fill="#8b949e" text-anchor="start">platform.</text>
+    
+    <rect x="30" y="115" width="56" height="24" rx="4" fill="#1f242c" />
+    <text x="58" y="131" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#c9d1d9" text-anchor="middle">Java</text>
+    <rect x="94" y="115" width="104" height="24" rx="4" fill="#1f242c" />
+    <text x="146" y="131" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#c9d1d9" text-anchor="middle">Spring Boot</text>
+    <rect x="206" y="115" width="72" height="24" rx="4" fill="#1f242c" />
+    <text x="242" y="131" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#c9d1d9" text-anchor="middle">Backend</text>
+    
+    <text x="30" y="175" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="normal" fill="#d29922" text-anchor="start">★ 85</text>
+    <text x="80" y="175" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="normal" fill="#8b949e" text-anchor="start">⑂ 24</text>
+    <text x="370" y="175" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600" fill="#58a6ff" text-anchor="end">View Project →</text>
+</svg>

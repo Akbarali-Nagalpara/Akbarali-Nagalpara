@@ -1,0 +1,16 @@
+<svg width="810" height="180" viewBox="0 0 810 180" xmlns="http://www.w3.org/2000/svg">
+    <rect x="0" y="0" width="810" height="180" fill="#0d1117" />
+    <text x="0" y="30" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="500" fill="#3fb950" text-anchor="start">>_ Hello there! I'm</text>
+    <text x="0" y="75" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="800" fill="#c9d1d9" text-anchor="start">Akbarali Nagalpara</text>
+    <text x="0" y="110" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#a371f7" text-anchor="start">Software Engineer · Designer · Problem Solver</text>
+    <text x="0" y="145" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="normal" fill="#8b949e" text-anchor="start">I design thoughtful experiences and build scalable systems</text>
+    <text x="0" y="168" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="normal" fill="#8b949e" text-anchor="start">that solve real-world problems.</text>
+    
+    <!-- Profile placeholder or glow -->
+    <circle cx="700" cy="90" r="60" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+    <text x="700" y="98" font-family="system-ui, -apple-system, sans-serif" font-size="32" font-weight="bold" fill="#8b949e" text-anchor="middle">AN</text>
+    
+    <!-- Availability -->
+    <circle cx="620" cy="170" r="5" fill="#3fb950"/>
+    <text x="635" y="175" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="normal" fill="#8b949e" text-anchor="start">Available for opportunities</text>
+</svg>

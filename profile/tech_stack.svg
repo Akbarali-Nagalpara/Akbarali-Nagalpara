@@ -1,0 +1,35 @@
+<svg width="810" height="220" viewBox="0 0 810 220" xmlns="http://www.w3.org/2000/svg">
+    <rect x="1" y="1" width="808" height="218" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <text x="30" y="40" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#8b949e" text-anchor="start">TECH STACK</text>
+    
+    <!-- Languages -->
+    <text x="30" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#3fb950" text-anchor="start">Languages</text>
+    <text x="30" y="110" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="normal" fill="#c9d1d9" text-anchor="start">Java</text>
+    <text x="30" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="normal" fill="#c9d1d9" text-anchor="start">TypeScript</text>
+    <text x="30" y="160" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="normal" fill="#c9d1d9" text-anchor="start">JavaScript</text>
+    <text x="30" y="185" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="normal" fill="#c9d1d9" text-anchor="start">SQL</text>
+
+    <!-- Frontend -->
+    <text x="180" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#a371f7" text-anchor="start">Frontend</text>
+    <text x="180" y="110" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="normal" fill="#c9d1d9" text-anchor="start">React</text>
+    <text x="180" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="normal" fill="#c9d1d9" text-anchor="start">HTML5</text>
+    <text x="180" y="160" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="normal" fill="#c9d1d9" text-anchor="start">CSS</text>
+
+    <!-- Backend -->
+    <text x="330" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#58a6ff" text-anchor="start">Backend</text>
+    <text x="330" y="110" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="normal" fill="#c9d1d9" text-anchor="start">Spring Boot</text>
+    <text x="330" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="normal" fill="#c9d1d9" text-anchor="start">Hibernate</text>
+    <text x="330" y="160" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="normal" fill="#c9d1d9" text-anchor="start">Node.js</text>
+
+    <!-- Database -->
+    <text x="480" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#d29922" text-anchor="start">Database &amp; Infra</text>
+    <text x="480" y="110" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="normal" fill="#c9d1d9" text-anchor="start">MySQL</text>
+    <text x="480" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="normal" fill="#c9d1d9" text-anchor="start">Supabase</text>
+    <text x="480" y="160" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="normal" fill="#c9d1d9" text-anchor="start">Docker</text>
+
+    <!-- Tools -->
+    <text x="630" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#8b949e" text-anchor="start">Tools</text>
+    <text x="630" y="110" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="normal" fill="#c9d1d9" text-anchor="start">Git</text>
+    <text x="630" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="normal" fill="#c9d1d9" text-anchor="start">GitHub</text>
+    <text x="630" y="160" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="normal" fill="#c9d1d9" text-anchor="start">Apache</text>
+</svg>

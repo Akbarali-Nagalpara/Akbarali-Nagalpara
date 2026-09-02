@@ -1,0 +1,17 @@
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+    <rect x="1" y="1" width="398" height="198" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <text x="30" y="45" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#c9d1d9" text-anchor="start">Endpoint-IQ</text>
+    <text x="30" y="75" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="normal" fill="#8b949e" text-anchor="start">AI-driven API testing platform with</text>
+    <text x="30" y="95" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="normal" fill="#8b949e" text-anchor="start">auth &amp; parallel tests.</text>
+    
+    <rect x="30" y="115" width="96" height="24" rx="4" fill="#1f242c" />
+    <text x="78" y="131" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#c9d1d9" text-anchor="middle">TypeScript</text>
+    <rect x="134" y="115" width="104" height="24" rx="4" fill="#1f242c" />
+    <text x="186" y="131" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#c9d1d9" text-anchor="middle">API Testing</text>
+    <rect x="246" y="115" width="40" height="24" rx="4" fill="#1f242c" />
+    <text x="266" y="131" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#c9d1d9" text-anchor="middle">AI</text>
+    
+    <text x="30" y="175" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="normal" fill="#d29922" text-anchor="start">★ 120</text>
+    <text x="80" y="175" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="normal" fill="#8b949e" text-anchor="start">⑂ 32</text>
+    <text x="370" y="175" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600" fill="#58a6ff" text-anchor="end">View Project →</text>
+</svg>

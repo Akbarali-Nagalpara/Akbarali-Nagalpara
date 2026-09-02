@@ -1,0 +1,32 @@
+<svg width="400" height="320" viewBox="0 0 400 320" xmlns="http://www.w3.org/2000/svg">
+    <rect x="1" y="1" width="398" height="318" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <text x="30" y="40" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#8b949e" text-anchor="start">CURRENTLY</text>
+    
+    <g transform="translate(30, 70)">
+        <rect x="0" y="0" width="32" height="32" rx="6" fill="#1f242c" />
+        <text x="16" y="21" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="normal" fill="white" text-anchor="middle">🏗️</text>
+        <text x="45" y="14" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#c9d1d9" text-anchor="start">Building Endpoint-IQ</text>
+        <text x="45" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="normal" fill="#8b949e" text-anchor="start">AI-powered API testing platform</text>
+    </g>
+
+    <g transform="translate(30, 130)">
+        <rect x="0" y="0" width="32" height="32" rx="6" fill="#1f242c" />
+        <text x="16" y="21" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="normal" fill="white" text-anchor="middle">🧭</text>
+        <text x="45" y="14" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#c9d1d9" text-anchor="start">Exploring System Design</text>
+        <text x="45" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="normal" fill="#8b949e" text-anchor="start">Deepening understanding of distributed systems</text>
+    </g>
+
+    <g transform="translate(30, 190)">
+        <rect x="0" y="0" width="32" height="32" rx="6" fill="#1f242c" />
+        <text x="16" y="21" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="normal" fill="white" text-anchor="middle">🧠</text>
+        <text x="45" y="14" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#c9d1d9" text-anchor="start">Learning</text>
+        <text x="45" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="normal" fill="#8b949e" text-anchor="start">Advanced Python, Cloud Architecture</text>
+    </g>
+
+    <g transform="translate(30, 250)">
+        <rect x="0" y="0" width="32" height="32" rx="6" fill="#1f242c" />
+        <text x="16" y="21" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="normal" fill="white" text-anchor="middle">🎯</text>
+        <text x="45" y="14" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#c9d1d9" text-anchor="start">Goal</text>
+        <text x="45" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="normal" fill="#8b949e" text-anchor="start">Building impactful products &amp; helping developers</text>
+    </g>
+</svg>

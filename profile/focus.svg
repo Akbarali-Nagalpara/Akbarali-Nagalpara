@@ -1,0 +1,32 @@
+<svg width="400" height="320" viewBox="0 0 400 320" xmlns="http://www.w3.org/2000/svg">
+    <rect x="1" y="1" width="398" height="318" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <text x="30" y="40" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#8b949e" text-anchor="start">FOCUS</text>
+    
+    <g transform="translate(30, 70)">
+        <rect x="0" y="0" width="32" height="32" rx="6" fill="#1f242c" />
+        <text x="16" y="21" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="normal" fill="white" text-anchor="middle">⚙️</text>
+        <text x="45" y="14" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#c9d1d9" text-anchor="start">Backend Engineering</text>
+        <text x="45" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="normal" fill="#8b949e" text-anchor="start">APIs, Databases, Microservices</text>
+    </g>
+
+    <g transform="translate(30, 130)">
+        <rect x="0" y="0" width="32" height="32" rx="6" fill="#1f242c" />
+        <text x="16" y="21" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="normal" fill="white" text-anchor="middle">🏛️</text>
+        <text x="45" y="14" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#c9d1d9" text-anchor="start">System Design</text>
+        <text x="45" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="normal" fill="#8b949e" text-anchor="start">Scalability, Performance, Reliability</text>
+    </g>
+
+    <g transform="translate(30, 190)">
+        <rect x="0" y="0" width="32" height="32" rx="6" fill="#1f242c" />
+        <text x="16" y="21" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="normal" fill="white" text-anchor="middle">🛠️</text>
+        <text x="45" y="14" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#c9d1d9" text-anchor="start">Developer Experience</text>
+        <text x="45" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="normal" fill="#8b949e" text-anchor="start">Tools, Automation, Better DX</text>
+    </g>
+
+    <g transform="translate(30, 250)">
+        <rect x="0" y="0" width="32" height="32" rx="6" fill="#1f242c" />
+        <text x="16" y="21" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="normal" fill="white" text-anchor="middle">🤖</text>
+        <text x="45" y="14" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#c9d1d9" text-anchor="start">AI &amp; Automation</text>
+        <text x="45" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="normal" fill="#8b949e" text-anchor="start">Building smart &amp; useful products</text>
+    </g>
+</svg>
