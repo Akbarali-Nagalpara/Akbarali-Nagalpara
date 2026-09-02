@@ -6,7 +6,7 @@
 
 ### `BACKEND ENGINEER` | `FULL-STACK DEVELOPER`
 
-Building reliable systems, scalable APIs and useful software.<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Building+reliable+systems...;Designing+scalable+APIs...;Developing+full-stack+applications...;Exploring+system+architecture..." alt="Typing SVG" /></a><br>
 <span style="color: #00d2ff;">● ONLINE</span>
 
 <br/>
