@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile/hero-glow.svg?raw=true" width="100%" alt="Ambient Glow" />
+  <img src="https://raw.githubusercontent.com/Akbarali-Nagalpara/Akbarali-Nagalpara/main/profile/hero-glow.svg" width="100%" alt="Ambient Glow" />
 </div>
 
 <div align="left" style="margin-top: -80px; position: relative;">
@@ -26,7 +26,7 @@
 <br><br><br>
 
 <div align="center">
-  <img src="./profile/bento-grid.svg?raw=true&v=2" width="100%" alt="Engineering Focus Bento Grid" />
+  <img src="https://raw.githubusercontent.com/Akbarali-Nagalpara/Akbarali-Nagalpara/main/profile/bento-grid.svg" width="100%" alt="Engineering Focus Bento Grid" />
 </div>
 
 <br><br><br>
@@ -73,8 +73,8 @@
 </p>
 
 <div align="center">
-  <img src="./profile/top-langs.svg?raw=true" width="48%" alt="Top Languages"/>
-  <img src="./profile/stats.svg?raw=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://raw.githubusercontent.com/Akbarali-Nagalpara/Akbarali-Nagalpara/main/profile/top-langs.svg" width="48%" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/Akbarali-Nagalpara/Akbarali-Nagalpara/main/profile/stats.svg" width="48%" alt="GitHub Stats"/>
 </div>
 
 <br><br><br>
