@@ -1,270 +1,145 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=050505&section=header" alt="Header" />
-
-# AKBARALI NAGALPARA
-
-### `BACKEND ENGINEER` | `FULL-STACK DEVELOPER`
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Building+reliable+systems...;Designing+scalable+APIs...;Developing+full-stack+applications...;Exploring+system+architecture..." alt="Typing SVG" /></a><br>
-<span style="color: #00d2ff;">● ONLINE</span>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,100:001a2c" width="100%" />
+</div>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akbarali-Nagalpara)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white)](YOUR_PORTFOLIO_URL)
+<div align="left">
+  
+<table>
+  <tr>
+    <td align="center" bgcolor="#0d1117">
+      <code style="color:#00d2ff; font-size: 11px;">● AVAILABLE FOR OPPORTUNITIES</code>
+    </td>
+  </tr>
+</table>
+
+# Hi, I'm Akbarali.
+# A Backend engineer.
+
+<p style="font-size: 16px; color: #8b949e; line-height: 1.6;">
+  Backend-focused developer passionate about scalable systems,<br>
+  clean architecture, databases, and full-stack development.
+</p>
 
 <br/>
 
+<a href="https://github.com/Akbarali-Nagalpara"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white&logoSize=auto"/></a>&nbsp;
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white&logoSize=auto"/></a>&nbsp;
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white&logoSize=auto"/></a>&nbsp;
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Resume-0d1117?style=flat-square&logo=read-cv&logoColor=white&logoSize=auto"/></a>
+
 </div>
 
----
+<br/><br/><br/>
 
-<div align="center">
-
-## 🎛️ ENGINEERING STATUS
-
-<table>
-<tr>
-<td>
-
-```text
-STATUS       ● BUILDING
-ROLE         BACKEND ENGINEER
-FOCUS        SYSTEM DESIGN
-MODE         FULL-STACK
-```
-
-</td>
-</tr>
+<!-- BENTO GRID -->
+<table width="100%">
+  <!-- ROW 1 -->
+  <tr>
+    <td width="30%" valign="top" bgcolor="#0d1117">
+      <code style="font-size: 10px; color: #8b949e;">LOCATION</code><br/><br/>
+      <h3 style="margin:0;">📍 India</h3>
+      <br/>
+    </td>
+    <td width="70%" valign="top" bgcolor="#0d1117">
+      <code style="font-size: 10px; color: #8b949e;">FEATURED WORK</code><br/><br/>
+      <h3 style="margin:0;">Building scalable backend systems</h3>
+      <p style="color: #8b949e; font-size: 14px;">Focused on high-performance architecture and resilient APIs.</p>
+    </td>
+  </tr>
+  <!-- ROW 2 -->
+  <tr>
+    <td width="50%" valign="top" bgcolor="#0d1117">
+      <code style="font-size: 10px; color: #8b949e;">ENGINEERING FOCUS</code><br/><br/>
+      <p style="font-size: 14px; line-height: 1.8;">
+        ⚡ Backend Architecture<br/>
+        🏗️ System Design<br/>
+        🔌 APIs<br/>
+        🗄️ Databases<br/>
+        🚀 Scalable Applications
+      </p>
+    </td>
+    <td width="50%" valign="top" bgcolor="#0d1117">
+      <code style="font-size: 10px; color: #8b949e;">CURRENTLY BUILDING</code><br/><br/>
+      <p style="font-size: 14px; line-height: 1.8;">
+        ⚙️ Backend systems<br/>
+        🛠️ Developer tools<br/>
+        🌐 Scalable applications
+      </p>
+    </td>
+  </tr>
 </table>
 
-</div>
-
----
-
-<div align="center">
-
-## ⚙️ ENGINEERING FOCUS
-
-<table>
-<tr>
-<td width="300">
-
-**⚙ BACKEND**<br><br>
-`APIs`<br>
-`Services`<br>
-`Business Logic`
-
-</td>
-<td width="300">
-
-**🏗 SYSTEM DESIGN**<br><br>
-`Architecture`<br>
-`Scalability`<br>
-`Distributed Sys`
-
-</td>
-</tr>
-<tr>
-<td>
-
-**🗄 DATABASE**<br><br>
-`Data Modeling`<br>
-`MySQL`<br>
-`Supabase`
-
-</td>
-<td>
-
-**💻 FULL STACK**<br><br>
-`React`<br>
-`JavaScript`<br>
-`UI/UX`
-
-</td>
-</tr>
+<table width="100%">
+  <!-- ROW 3 -->
+  <tr>
+    <td width="60%" valign="top" bgcolor="#0d1117">
+      <code style="font-size: 10px; color: #8b949e;">GITHUB ACTIVITY</code><br/><br/>
+      <img src="./profile/stats.svg" width="100%" alt="GitHub Statistics"/>
+      <br/>
+      <img src="./profile/top-langs.svg" width="100%" alt="Top Languages"/>
+    </td>
+    <td width="40%" valign="top" bgcolor="#0d1117">
+      <code style="font-size: 10px; color: #8b949e;">TECH STACK</code><br/><br/>
+      <p style="font-size: 13px;">
+        <b style="color:#00d2ff;">BACKEND</b><br>
+        Java · Spring Boot · Hibernate<br><br>
+        
+        <b style="color:#00d2ff;">FRONTEND</b><br>
+        React · JavaScript · HTML5<br><br>
+        
+        <b style="color:#00d2ff;">DATABASE</b><br>
+        MySQL · Supabase<br><br>
+        
+        <b style="color:#00d2ff;">OTHER</b><br>
+        Apache · C
+      </p>
+    </td>
+  </tr>
 </table>
 
-</div>
+<br/><br/><br/>
 
----
+## Engineering Journey
 
-<div align="center">
-
-## 🏗️ How I Think About Systems
-
-```text
-                    CLIENT
-                       │
-                       ▼
-               ┌──────────────┐
-               │   REST API   │
-               └──────┬───────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ BUSINESS LOGIC  │
-             └────────┬────────┘
-                      │
-              ┌───────┴────────┐
-              ▼                ▼
-        ┌──────────┐      ┌──────────┐
-        │ DATABASE │      │ SERVICES │
-        └──────────┘      └──────────┘
-```
-
-*I enjoy understanding how components communicate, where bottlenecks appear, and how systems can evolve as they scale.*
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ TECH STACK
-
-<table>
-<tr>
-<td width="150"><strong>BACKEND</strong></td>
-<td>Java · Spring Boot · Hibernate</td>
-</tr>
-<tr>
-<td><strong>FRONTEND</strong></td>
-<td>React · JavaScript · HTML5</td>
-</tr>
-<tr>
-<td><strong>DATABASE</strong></td>
-<td>MySQL · Supabase</td>
-</tr>
-<tr>
-<td><strong>LANGUAGES</strong></td>
-<td>Java · JavaScript · C</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 FEATURED ENGINEERING
-
-<table>
-<tr>
-<td width="600">
-
-### 01 / Project One Placeholder
-<br>
-
-**Backend Platform**
-
-Description of the engineering problem and how the project solves it. Focus on architecture, interesting engineering decisions, and the overall result.
-<br><br>
-`Java` `Spring Boot` `MySQL`
-<br><br>
-[Architecture / Repository →](#)
-
-</td>
-</tr>
-<tr>
-<td width="600">
-
-### 02 / Project Two Placeholder
-<br>
-
-**Full-Stack Application**
-
-Description of the engineering problem and how the project solves it. Focus on architecture, interesting engineering decisions, and the overall result.
-<br><br>
-`React` `JavaScript` `Supabase`
-<br><br>
-[Architecture / Repository →](#)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🧠 CURRENTLY EXPLORING
-
-```text
-System Design
-       ↓
-Backend Architecture
-       ↓
-Distributed Systems
-       ↓
-Database Optimization
-       ↓
-Scalable Applications
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 SYSTEM TELEMETRY
-
-<br>
-
-<img src="./profile/stats.svg" alt="GitHub Statistics"/>
-
-<br><br>
-
-<img src="./profile/top-langs.svg" alt="Most Used Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 ENGINEERING PHILOSOPHY
-
-<br>
-
-`BUILD` ➔ `UNDERSTAND` ➔ `IMPROVE` ➔ `REPEAT`
-
-I learn by building real systems from the ground up and iteratively improving them to solve complex engineering challenges.
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 CONNECT
-
-<table>
-<tr>
-<td>
-<a href="https://github.com/Akbarali-Nagalpara">[ GitHub ]</a>
-</td>
-<td>
-<a href="YOUR_LINKEDIN_URL">[ LinkedIn ]</a>
-</td>
-<td>
-<a href="YOUR_PORTFOLIO_URL">[ Portfolio ]</a>
-</td>
-</tr>
-</table>
+<p style="color: #8b949e; font-size: 16px;">
+  Projects, experiments, and systems that reflect what I'm learning, building, and improving as an engineer.
+</p>
 
 <br/>
 
-──────────────────────────────────────────────
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="#"><img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" width="100%" style="border-radius: 8px;" alt="Project 1"/></a><br/><br/>
+      <h3 style="margin-bottom: 5px;">Project 01 Placeholder</h3>
+      <p style="font-size: 14px; color: #8b949e; margin-top: 0;">Add project description focusing on problem, architecture, interesting engineering decisions, and the result.</p>
+      <code style="font-size: 11px;">Java</code> <code style="font-size: 11px;">Spring Boot</code> <code style="font-size: 11px;">MySQL</code><br/><br/>
+      <a href="#" style="font-size: 14px; color: #00d2ff; text-decoration: none;">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="#"><img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" width="100%" style="border-radius: 8px;" alt="Project 2"/></a><br/><br/>
+      <h3 style="margin-bottom: 5px;">Project 02 Placeholder</h3>
+      <p style="font-size: 14px; color: #8b949e; margin-top: 0;">Add project description focusing on problem, architecture, interesting engineering decisions, and the result.</p>
+      <code style="font-size: 11px;">React</code> <code style="font-size: 11px;">JavaScript</code> <code style="font-size: 11px;">Supabase</code><br/><br/>
+      <a href="#" style="font-size: 14px; color: #00d2ff; text-decoration: none;">View Repository →</a>
+    </td>
+  </tr>
+</table>
 
-**BUILD • LEARN • IMPROVE**
+<br/><br/><br/>
 
-──────────────────────────────────────────────
+## 💡 Engineering Philosophy
 
+<code style="color: #00d2ff;">BUILD ↓ UNDERSTAND ↓ IMPROVE ↓ REPEAT</code>
+
+<p style="color: #8b949e; font-size: 15px; margin-top: 15px;">
+  I enjoy understanding how systems work, finding better solutions, and continuously improving what I build.
+</p>
+
+<br/><br/>
+
+<div align="center">
+  <p style="color: #8b949e; font-size: 12px; letter-spacing: 2px;">BUILD • LEARN • IMPROVE</p>
 </div>
