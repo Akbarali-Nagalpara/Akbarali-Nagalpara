@@ -2,95 +2,218 @@
   <img src="https://raw.githubusercontent.com/Akbarali-Nagalpara/Akbarali-Nagalpara/main/profile/hero-glow.svg" width="100%" alt="Ambient Glow" />
 </div>
 
-<div align="left" style="margin-top: -80px; position: relative;">
+<div align="left" style="margin-top: -80px;">
 
-<code>● AVAILABLE FOR OPPORTUNITIES</code><br><br>
-
-<h1 style="border-bottom: none; font-size: 2.5em; margin-bottom: 0;">Hi, I'm Akbarali.</h1>
-<h1 style="border-bottom: none; font-size: 2.5em; margin-top: 0;">A Backend engineer.</h1>
-
-<p style="font-size: 16px; color: #8b949e; line-height: 1.6;">
-  Backend-focused developer passionate about scalable systems,<br>
-  clean architecture, databases, and full-stack development.
-</p>
-
-<br>
-
-<a href="https://github.com/Akbarali-Nagalpara"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white&border=00d2ff"/></a>&nbsp;
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white&border=00d2ff"/></a>&nbsp;
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white&border=00d2ff"/></a>&nbsp;
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Resume-0d1117?style=flat-square&logo=read-cv&logoColor=white&border=00d2ff"/></a>
-
-</div>
-
-<br><br><br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Akbarali-Nagalpara/Akbarali-Nagalpara/main/profile/bento-grid.svg" width="100%" alt="Engineering Focus Bento Grid" />
-</div>
-
-<br><br><br>
-
-## Engineering Journey
-
-<p style="color: #8b949e; font-size: 16px;">
-  Projects, experiments, and systems that reflect what I'm learning, building, and improving as an engineer.
-</p>
-
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Akbarali-Nagalpara/Endpoint-IQ">
-        <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" width="100%" alt="Endpoint-IQ"/>
-      </a>
-      <br><br>
-      <h3 style="margin-bottom: 5px;">Endpoint-IQ</h3>
-      <p style="font-size: 14px; color: #8b949e; margin-top: 0;">AI-driven API testing platform that imports OpenAPI specs, manages JWT auth, runs parallel API tests, and analyzes failures.</p>
-      <code>TypeScript</code> <code>API Testing</code> <code>AI</code><br><br>
-      <a href="https://github.com/Akbarali-Nagalpara/Endpoint-IQ" style="font-size: 14px; color: #00d2ff; text-decoration: none;">Read more →</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Akbarali-Nagalpara/Ecommerce-Store">
-        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" width="100%" alt="Ecommerce-Store"/>
-      </a>
-      <br><br>
-      <h3 style="margin-bottom: 5px;">Ecommerce-Store</h3>
-      <p style="font-size: 14px; color: #8b949e; margin-top: 0;">Scalable e-commerce backend platform handling product catalog, inventory, cart management, and checkout processing.</p>
-      <code>Java</code> <code>Spring Boot</code> <code>Backend</code><br><br>
-      <a href="https://github.com/Akbarali-Nagalpara/Ecommerce-Store" style="font-size: 14px; color: #00d2ff; text-decoration: none;">Read more →</a>
-    </td>
-  </tr>
-</table>
-
-<br><br><br>
-
-## System Telemetry
-
-<p style="color: #8b949e; font-size: 14px;">
-  Automated metrics tracking language usage and contribution velocity.
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Akbarali-Nagalpara/Akbarali-Nagalpara/main/profile/top-langs.svg" width="48%" alt="Top Languages"/>
-  <img src="https://raw.githubusercontent.com/Akbarali-Nagalpara/Akbarali-Nagalpara/main/profile/stats.svg" width="48%" alt="GitHub Stats"/>
-</div>
-
-<br><br><br>
-
-## 💡 Engineering Philosophy
-
-<code style="color: #00d2ff;">BUILD ↓ UNDERSTAND ↓ IMPROVE ↓ REPEAT</code>
-
-<p style="color: #8b949e; font-size: 15px; margin-top: 15px;">
-  I enjoy understanding how systems work, finding better solutions, and continuously improving what I build.
-</p>
+<code>● Available for opportunities</code>
 
 <br><br>
 
-<div align="center">
-  <a href="https://github.com/Akbarali-Nagalpara" style="font-size: 12px; color: #8b949e; text-decoration: none;">GitHub</a> &nbsp;·&nbsp;
-  <a href="YOUR_LINKEDIN_URL" style="font-size: 12px; color: #8b949e; text-decoration: none;">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="YOUR_PORTFOLIO_URL" style="font-size: 12px; color: #8b949e; text-decoration: none;">Portfolio</a>
+> Hello there! I'm
+# AKBARALI NAGALPARA
+### Software Engineer · Designer · Problem Solver
+
+I design thoughtful experiences and build scalable systems<br>that solve real-world problems.
+
+<br>
+
+[![View My Work](https://img.shields.io/badge/View_My_Work_→-0d1117?style=for-the-badge&border=30363d&logoColor=white)](#-featured-projects)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-0d1117?style=for-the-badge&border=30363d&logoColor=white)]([YOUR_RESUME_LINK_HERE])
+
 </div>
+
+<br><br>
+
+## 📌 CURRENTLY & FOCUS
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  
+**CURRENTLY**
+- 🏗️ **Building** — Endpoint-IQ
+- 🧭 **Exploring** — System Design
+- 🧠 **Learning** — Backend / Cloud / AI
+- 🎯 **Goal** — Building impactful products
+
+</td>
+<td width="50%" valign="top">
+
+**FOCUS**
+- ⚙️ **Backend Engineering**<br>APIs, Databases, Microservices
+- 🏛️ **System Design**<br>Scalability, Performance, Reliability
+- 🛠️ **Developer Experience**<br>Tools, Automation, Better DX
+- 🤖 **AI & Automation**<br>Building smart & useful products
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ TECH STACK
+
+<table width="100%">
+<tr>
+<td width="20%" valign="top">
+  
+**Languages**
+- Java
+- TypeScript
+- JavaScript
+- SQL
+- `[Language]`
+
+</td>
+<td width="20%" valign="top">
+
+**Frontend**
+- React
+- HTML5
+- `[Frontend]`
+- `[Frontend]`
+
+</td>
+<td width="20%" valign="top">
+
+**Backend**
+- Spring Boot
+- Hibernate
+- `[Backend]`
+- `[Backend]`
+
+</td>
+<td width="20%" valign="top">
+
+**Database & Infra**
+- MySQL
+- Supabase
+- `[Infra]`
+- `[Infra]`
+
+</td>
+<td width="20%" valign="top">
+
+**Tools**
+- Git
+- GitHub
+- Apache
+- `[Tool]`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 💻 FEATURED PROJECTS
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Endpoint-IQ**
+<br>
+AI-driven API testing platform that imports OpenAPI specs, manages JWT auth, runs parallel API tests, and analyzes failures.
+<br><br>
+`TypeScript` `API Testing` `AI`
+<br><br>
+★ `[Stars]` &nbsp; ⑂ `[Forks]`
+<br><br>
+[View Project →](https://github.com/Akbarali-Nagalpara/Endpoint-IQ)
+
+</td>
+<td width="50%" valign="top">
+
+**Ecommerce-Store**
+<br>
+Scalable e-commerce backend platform handling product catalog, inventory, cart management, and checkout processing.
+<br><br>
+`Java` `Spring Boot` `Backend`
+<br><br>
+★ `[Stars]` &nbsp; ⑂ `[Forks]`
+<br><br>
+[View Project →](https://github.com/Akbarali-Nagalpara/Ecommerce-Store)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Project 3 Name]**
+<br>
+[Short one-line description of the project]
+<br><br>
+`[Tech 1]` `[Tech 2]` `[Tech 3]`
+<br><br>
+★ `[Stars]` &nbsp; ⑂ `[Forks]`
+<br><br>
+[View Project →](#)
+
+</td>
+<td width="50%" valign="top">
+
+**[Project 4 Name]**
+<br>
+[Short one-line description of the project]
+<br><br>
+`[Tech 1]` `[Tech 2]` `[Tech 3]`
+<br><br>
+★ `[Stars]` &nbsp; ⑂ `[Forks]`
+<br><br>
+[View Project →](#)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📈 GITHUB ENGINEERING STATS
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akbarali-Nagalpara&show_icons=true&theme=transparent&hide_border=true&title_color=00d2ff&text_color=c9d1d9&icon_color=00d2ff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbarali-Nagalpara&layout=compact&theme=transparent&hide_border=true&title_color=00d2ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+</p>
+
+<br>
+
+## 🟩 CONTRIBUTION ACTIVITY
+
+<p align="left">
+  <img src="https://ghchart.rshah.org/00d2ff/Akbarali-Nagalpara" alt="Contribution Graph" width="100%" />
+</p>
+
+<br>
+
+## 🔗 LET'S CONNECT
+
+<table width="100%">
+<tr>
+<td align="center" width="20%">
+<a href="[YOUR_LINKEDIN_URL]">LinkedIn</a><br>
+<code>/in/[YOUR_PROFILE]</code>
+</td>
+<td align="center" width="20%">
+<a href="[YOUR_PORTFOLIO_URL]">Portfolio</a><br>
+<code>[YOUR_WEBSITE]</code>
+</td>
+<td align="center" width="20%">
+<a href="mailto:[your.email@example.com]">Email</a><br>
+<code>Say Hello</code>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Akbarali-Nagalpara">GitHub</a><br>
+<code>@Akbarali-Nagalpara</code>
+</td>
+<td align="center" width="20%">
+<a href="[YOUR_RESUME_LINK]">Resume</a><br>
+<code>Download PDF</code>
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <sub>Thanks for visiting.<br>If you find something useful here, consider giving the repository a ⭐</sub>
+</p>
