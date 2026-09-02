@@ -1,223 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=header" alt="Header Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=050505&section=header" alt="Header" />
 
-# Hi, I'm Akbarali 👋
+# AKBARALI NAGALPARA
 
-### Backend Engineer · Full-Stack Developer · System Design Enthusiast
+### `BACKEND ENGINEER` | `FULL-STACK DEVELOPER`
 
-I build reliable backend systems, scalable APIs, and full-stack applications.
-
-</div>
-
----
-
-<div align="center">
-
-## 🧠 Engineering Focus
-
-| 🏗️ Backend Engineering | 🌐 Full-Stack Development | 🗄️ Database Design | 🧩 System Design |
-|:---:|:---:|:---:|:---:|
-| Building robust APIs | Creating seamless UI/UX | Optimized data models | Scalable architecture |
-| Authentication & AuthZ | Connecting frontend to backend | SQL & NoSQL solutions | Performance tuning |
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="140">
-
-**⚙️ Backend**
-
-</td>
-<td>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-**💻 Frontend**
-
-</td>
-<td>
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-**🗄️ Database**
-
-</td>
-<td>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-**🧠 Languages**
-
-</td>
-<td>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 What I Like Building
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="250">
-
-### 🔌 Backend APIs
-Designing clean, reliable, and secure APIs and services.
-
-</td>
-<td align="center" width="250">
-
-### 🏗️ Scalable Systems
-Understanding how systems scale, communicate, and handle load.
-
-</td>
-<td align="center" width="250">
-
-### 🗄️ Database-Driven Apps
-Designing efficient databases and data models for optimal performance.
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-### 🔐 Secure Applications
-Implementing robust authentication, authorization, and access control.
-
-</td>
-<td align="center">
-
-### ⚡ Performance-Focused
-Building software with reliability and efficiency in mind.
-
-</td>
-<td align="center">
-
-### 💻 Full-Stack Architecture
-Connecting backend logic with clean and intuitive user interfaces.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-### Project One
-Short explanation of the problem and solution for this backend API project.
-<br/>
-`Java` `Spring Boot` `MySQL`
-<br/>
-[View Project →](#)
-
-<br/>
-
-### Project Two
-Short explanation of the problem and solution for this full-stack application.
-<br/>
-`React` `JavaScript` `Supabase`
-<br/>
-[View Project →](#)
-
----
-
-<div align="center">
-
-## 📊 GitHub Activity
-
-<br/>
-
-<img src="./profile/stats.svg" alt="GitHub Statistics"/>
-
-<br/><br/>
-
-<img src="./profile/top-langs.svg" alt="Most Used Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📌 Currently Exploring
-
-<br/>
-
-**System Design** ➔ **Backend Architecture** ➔ **Distributed Systems** ➔ **Database Optimization** ➔ **Scalable Applications**
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 Engineering Philosophy
-
-<br/>
-
-> **Build → Understand → Improve → Repeat**
-
-I enjoy learning by building real systems from the ground up and iteratively improving them to solve complex engineering challenges.
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect
+Building reliable systems, scalable APIs and useful software.<br>
+<span style="color: #00d2ff;">● ONLINE</span>
 
 <br/>
 
@@ -227,6 +17,254 @@ I enjoy learning by building real systems from the ground up and iteratively imp
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" alt="Footer Wave"/>
+</div>
+
+---
+
+<div align="center">
+
+## 🎛️ ENGINEERING STATUS
+
+<table>
+<tr>
+<td>
+
+```text
+STATUS       ● BUILDING
+ROLE         BACKEND ENGINEER
+FOCUS        SYSTEM DESIGN
+MODE         FULL-STACK
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚙️ ENGINEERING FOCUS
+
+<table>
+<tr>
+<td width="300">
+
+**⚙ BACKEND**<br><br>
+`APIs`<br>
+`Services`<br>
+`Business Logic`
+
+</td>
+<td width="300">
+
+**🏗 SYSTEM DESIGN**<br><br>
+`Architecture`<br>
+`Scalability`<br>
+`Distributed Sys`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🗄 DATABASE**<br><br>
+`Data Modeling`<br>
+`MySQL`<br>
+`Supabase`
+
+</td>
+<td>
+
+**💻 FULL STACK**<br><br>
+`React`<br>
+`JavaScript`<br>
+`UI/UX`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏗️ How I Think About Systems
+
+```text
+                    CLIENT
+                       │
+                       ▼
+               ┌──────────────┐
+               │   REST API   │
+               └──────┬───────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │ BUSINESS LOGIC  │
+             └────────┬────────┘
+                      │
+              ┌───────┴────────┐
+              ▼                ▼
+        ┌──────────┐      ┌──────────┐
+        │ DATABASE │      │ SERVICES │
+        └──────────┘      └──────────┘
+```
+
+*I enjoy understanding how components communicate, where bottlenecks appear, and how systems can evolve as they scale.*
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ TECH STACK
+
+<table>
+<tr>
+<td width="150"><strong>BACKEND</strong></td>
+<td>Java · Spring Boot · Hibernate</td>
+</tr>
+<tr>
+<td><strong>FRONTEND</strong></td>
+<td>React · JavaScript · HTML5</td>
+</tr>
+<tr>
+<td><strong>DATABASE</strong></td>
+<td>MySQL · Supabase</td>
+</tr>
+<tr>
+<td><strong>LANGUAGES</strong></td>
+<td>Java · JavaScript · C</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 FEATURED ENGINEERING
+
+<table>
+<tr>
+<td width="600">
+
+### 01 / Project One Placeholder
+<br>
+
+**Backend Platform**
+
+Description of the engineering problem and how the project solves it. Focus on architecture, interesting engineering decisions, and the overall result.
+<br><br>
+`Java` `Spring Boot` `MySQL`
+<br><br>
+[Architecture / Repository →](#)
+
+</td>
+</tr>
+<tr>
+<td width="600">
+
+### 02 / Project Two Placeholder
+<br>
+
+**Full-Stack Application**
+
+Description of the engineering problem and how the project solves it. Focus on architecture, interesting engineering decisions, and the overall result.
+<br><br>
+`React` `JavaScript` `Supabase`
+<br><br>
+[Architecture / Repository →](#)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧠 CURRENTLY EXPLORING
+
+```text
+System Design
+       ↓
+Backend Architecture
+       ↓
+Distributed Systems
+       ↓
+Database Optimization
+       ↓
+Scalable Applications
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 SYSTEM TELEMETRY
+
+<br>
+
+<img src="./profile/stats.svg" alt="GitHub Statistics"/>
+
+<br><br>
+
+<img src="./profile/top-langs.svg" alt="Most Used Languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 ENGINEERING PHILOSOPHY
+
+<br>
+
+`BUILD` ➔ `UNDERSTAND` ➔ `IMPROVE` ➔ `REPEAT`
+
+I learn by building real systems from the ground up and iteratively improving them to solve complex engineering challenges.
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 CONNECT
+
+<table>
+<tr>
+<td>
+<a href="https://github.com/Akbarali-Nagalpara">[ GitHub ]</a>
+</td>
+<td>
+<a href="YOUR_LINKEDIN_URL">[ LinkedIn ]</a>
+</td>
+<td>
+<a href="YOUR_PORTFOLIO_URL">[ Portfolio ]</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+──────────────────────────────────────────────
+
+**BUILD • LEARN • IMPROVE**
+
+──────────────────────────────────────────────
 
 </div>
