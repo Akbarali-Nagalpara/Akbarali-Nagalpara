@@ -1,45 +1,87 @@
-# Akbarali Nagalpara
-**Software Engineer | Backend Developer**
+# Hey, I'm Akbarali 👋
 
-I build scalable backend systems, design resilient APIs, and focus on clean architecture.
+`Software Engineer • Backend Developer`
+
+Building backend systems, APIs and real-world software with Java, Spring Boot and modern engineering practices.
 
 ---
 
-## About
-I am a software engineer focused on backend development, system design, and data architecture. I specialize in Java and Spring Boot, alongside Node.js and TypeScript, to build systems that are robust, maintainable, and scalable. I approach engineering with a focus on practical problem-solving, efficient database design, and creating reliable RESTful APIs.
+### 🔨 Currently Building
+→ Backend systems with robust architectures  
+→ Learning System Design & Scalability  
+→ Exploring scalable API development  
+→ Improving database and distributed-system fundamentals  
 
-## Tech Stack
-- **Backend**: Java, Spring Boot, Node.js, TypeScript
-- **Databases**: PostgreSQL, MySQL, Redis
-- **APIs**: REST, OpenAPI/Swagger
-- **DevOps / Infra**: Docker, Linux, Git
-- **Tools**: Postman, IntelliJ, VS Code
+<br>
 
-## Featured Projects
+### 💻 Featured Projects
 
-**01. BuySmart-ai**  
-Intelligent buying assistant platform built with robust backend infrastructure.
-- **Engineering Concepts**: REST API Interactions, Data Processing, System Integration
-- **Tech Stack**: TypeScript, Node.js
-- [→ View Repository](https://github.com/Akbarali-Nagalpara/BuySmart-ai)
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>BuySmart-ai</h3>
+      Intelligent buying assistant platform built with robust backend infrastructure.
+      <br><br>
+      <code>TypeScript</code> <code>Node.js</code>
+      <br><br>
+      <b>Engineering focus:</b><br>REST API interactions and data processing pipelines.
+      <br><br>
+      <a href="https://github.com/Akbarali-Nagalpara/BuySmart-ai">View Repository ↗</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Endpoint-IQ</h3>
+      API testing platform that imports OpenAPI specs, manages JWT authentication, and executes parallel tests.
+      <br><br>
+      <code>TypeScript</code> <code>Node.js</code>
+      <br><br>
+      <b>Engineering focus:</b><br>Asynchronous execution and automated testing workflows.
+      <br><br>
+      <a href="https://github.com/Akbarali-Nagalpara/Endpoint-IQ">View Repository ↗</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Inventory-system</h3>
+      Inventory management backend designed to securely handle stock operations and user sessions.
+      <br><br>
+      <code>TypeScript</code> <code>MySQL</code> <code>Node.js</code>
+      <br><br>
+      <b>Engineering focus:</b><br>Secure authentication and relational database design.
+      <br><br>
+      <a href="https://github.com/Akbarali-Nagalpara/Inventory-system">View Repository ↗</a>
+    </td>
+  </tr>
+</table>
 
-**02. Endpoint-IQ**  
-API testing platform that imports OpenAPI specs, manages JWT authentication, and executes parallel API tests.
-- **Engineering Concepts**: REST API Interactions, Asynchronous Processing, Automated Testing
-- **Tech Stack**: TypeScript, Node.js
-- [→ View Repository](https://github.com/Akbarali-Nagalpara/Endpoint-IQ)
+<br>
 
-**03. Inventory-system**  
-Inventory management backend designed to securely handle stock operations and authentication workflows.
-- **Engineering Concepts**: Security / Authentication, CRUD Operations, Database Architecture
-- **Tech Stack**: TypeScript, Node.js, MySQL
-- [→ View Repository](https://github.com/Akbarali-Nagalpara/Inventory-system)
+### ⚙️ Engineering Focus
 
-## Engineering Focus
-- **Backend Engineering**: Developing robust microservices and monoliths using Java and Spring Boot.
-- **System Design**: Architecting for scalability, performance, and reliability.
-- **Database Design**: SQL optimization, schema design, and data integrity.
-- **API Design**: Building secure, well-documented, and intuitive RESTful APIs.
+**Backend:** `Java` `Spring Boot` `Node.js` `TypeScript` `REST API`  
+**Database:** `PostgreSQL` `MySQL` `Redis`  
+**Tools:** `Docker` `Git` `Linux`  
 
-## Connect
-[GitHub](https://github.com/Akbarali-Nagalpara) · [LinkedIn](https://linkedin.com/in/akbaralinagalpara) · [Portfolio](https://akbarali.dev) · [Email](mailto:hello@akbarali.dev)
+<br>
+
+**Currently Exploring:**  
+Backend Architecture · System Design · Database Design · API Design · Scalability · Distributed Systems · Testing
+
+<br>
+
+### 📈 GitHub Activity
+
+<a href="https://github.com/Akbarali-Nagalpara">
+  <img src="https://ghchart.rshah.org/00d2ff/Akbarali-Nagalpara" alt="Akbarali's Contribution Graph" />
+</a>
+
+<br><br>
+
+### 🧠 Developer Mindset
+
+```text
+// Build → Break → Understand → Improve
+```
+
+<br>
+
+### 📬 Connect
+
+[GitHub](https://github.com/Akbarali-Nagalpara) · [LinkedIn](https://linkedin.com/in/akbaralinagalpara) · [Portfolio](https://akbarali.dev) · [hello@akbarali.dev](mailto:hello@akbarali.dev)
