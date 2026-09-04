@@ -84,4 +84,4 @@ Backend Architecture · System Design · Database Design · API Design · Scalab
 
 ### 📬 Connect
 
-[GitHub](https://github.com/Akbarali-Nagalpara) · [LinkedIn](https://linkedin.com/in/akbaralinagalpara) · [Portfolio](https://akbarali.dev) · [hello@akbarali.dev](mailto:hello@akbarali.dev)
+[GitHub](https://github.com/Akbarali-Nagalpara) · [LinkedIn](https://www.linkedin.com/in/akbarali-nagalpara-5498aa262/) · [Portfolio](https://www.linkedin.com/in/akbarali-nagalpara-5498aa262/) · [nagalparaakbarali03@gmail.com](mailto:nagalparaakbarali03@gmail.com)
