@@ -1,87 +1,83 @@
-# Hey, I'm Akbarali 
+<div align="center">
 
-`Software Engineer • Backend Developer`
+# AKBARALI NAGALPARA
 
-Building backend systems, APIs and real-world software with Java, Spring Boot and modern engineering practices.
+**Software Engineer · Backend Developer**
+
+*Building reliable and scalable backend systems.*
+
+</div>
 
 ---
 
-### 🔨 Currently Building
-→ Backend systems with robust architectures  
-→ Learning System Design & Scalability  
-→ Exploring scalable API development  
-→ Improving database and distributed-system fundamentals  
+## About
 
-<br>
+Backend-focused Software Engineer specializing in **Java**, **Spring Boot** and backend architecture.
 
-### 💻 Featured Projects
+I enjoy designing APIs, databases and distributed systems with a focus on reliability and performance.
+
+---
+
+## Engineering
+
+| Domain | Stack |
+|---|---|
+| **Backend** | Java · Spring Boot · REST · Security |
+| **Database** | PostgreSQL · MySQL · Redis |
+| **Messaging** | Kafka · Event-Driven Architecture |
+| **Cloud** | AWS · Docker · Linux |
+| **Practices** | System Design · Clean Architecture · Git |
+
+---
+
+## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3>BuySmart-ai</h3>
-      Intelligent buying assistant platform built with robust backend infrastructure.
+      <h4>Event-Driven Order Platform</h4>
+      <p>Order processing system built on an event-driven architecture for reliability and decoupled service communication.</p>
+      <code>Java</code> &nbsp;<code>Spring Boot</code> &nbsp;<code>Kafka</code> &nbsp;<code>PostgreSQL</code> &nbsp;<code>Redis</code>
       <br><br>
-      <code>TypeScript</code> <code>Node.js</code>
-      <br><br>
-      <b>Engineering focus:</b><br>REST API interactions and data processing pipelines.
-      <br><br>
-      <a href="https://github.com/Akbarali-Nagalpara/BuySmart-ai">View Repository ↗</a>
+      <a href="#">View Repository ↗</a>
     </td>
     <td width="33%" valign="top">
-      <h3>Endpoint-IQ</h3>
-      API testing platform that imports OpenAPI specs, manages JWT authentication, and executes parallel tests.
+      <h4>API Gateway &amp; Rate Limiting</h4>
+      <p>Centralized API gateway with JWT-based authentication and Redis-backed rate limiting.</p>
+      <code>Spring Boot</code> &nbsp;<code>Redis</code> &nbsp;<code>JWT</code> &nbsp;<code>Docker</code>
       <br><br>
-      <code>TypeScript</code> <code>Node.js</code>
-      <br><br>
-      <b>Engineering focus:</b><br>Asynchronous execution and automated testing workflows.
-      <br><br>
-      <a href="https://github.com/Akbarali-Nagalpara/Endpoint-IQ">View Repository ↗</a>
+      <a href="#">View Repository ↗</a>
     </td>
     <td width="33%" valign="top">
-      <h3>Inventory-system</h3>
-      Inventory management backend designed to securely handle stock operations and user sessions.
+      <h4>AI Product Decision Platform</h4>
+      <p>Backend platform integrating AI to assist with intelligent product decision-making workflows.</p>
+      <code>Spring Boot</code> &nbsp;<code>Gemini</code> &nbsp;<code>MySQL</code>
       <br><br>
-      <code>TypeScript</code> <code>MySQL</code> <code>Node.js</code>
-      <br><br>
-      <b>Engineering focus:</b><br>Secure authentication and relational database design.
-      <br><br>
-      <a href="https://github.com/Akbarali-Nagalpara/Inventory-system">View Repository ↗</a>
+      <a href="#">View Repository ↗</a>
     </td>
   </tr>
 </table>
 
-<br>
+---
 
-### ⚙️ Engineering Focus
+## 🏗️ Engineering Interests
 
-**Backend:** `Java` `Spring Boot` `Node.js` `TypeScript` `REST API`  
-**Database:** `PostgreSQL` `MySQL` `Redis`  
-**Tools:** `Docker` `Git` `Linux`  
-
-<br>
-
-**Currently Exploring:**  
-Backend Architecture · System Design · Database Design · API Design · Scalability · Distributed Systems · Testing
-
-<br>
-
-### 📈 GitHub Activity
-
-<a href="https://github.com/Akbarali-Nagalpara">
-  <img src="https://ghchart.rshah.org/00d2ff/Akbarali-Nagalpara" alt="Akbarali's Contribution Graph" />
-</a>
-
-<br><br>
-
-### 🧠 Developer Mindset
-
-```text
-// Build → Break → Understand → Improve
+```
+System Design          ·   Distributed Systems
+Database Optimization  ·   Caching
+Event-Driven Arch      ·   API Design
 ```
 
-<br>
+---
 
-### 📬 Connect
+## 📚 Currently Learning
 
-[GitHub](https://github.com/Akbarali-Nagalpara) · [LinkedIn](https://www.linkedin.com/in/akbarali-nagalpara-5498aa262/) · [Portfolio](https://www.linkedin.com/in/akbarali-nagalpara-5498aa262/) · [nagalparaakbarali03@gmail.com](mailto:nagalparaakbarali03@gmail.com)
+```
+System Design  →  Kafka  →  Redis  →  AWS
+```
+
+---
+
+## 🤝 Connect
+
+[LinkedIn](https://www.linkedin.com/in/akbarali-nagalpara-5498aa262/) &nbsp;·&nbsp; [Portfolio](#) &nbsp;·&nbsp; [nagalparaakbarali03@gmail.com](mailto:nagalparaakbarali03@gmail.com)
