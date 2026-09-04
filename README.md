@@ -60,23 +60,45 @@ I enjoy designing APIs, databases and distributed systems with a focus on **reli
 
 <br>
 
-<div align="center">
-
-<a href="https://github.com/Akbarali-Nagalpara/Endpoint-IQ">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=Akbarali-Nagalpara&repo=Endpoint-IQ&theme=github_dark_dimmed&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=64ffda&text_color=8892b0&icon_color=64ffda&show_icons=true" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Akbarali-Nagalpara/BuySmart-ai">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=Akbarali-Nagalpara&repo=BuySmart-ai&theme=github_dark_dimmed&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=64ffda&text_color=8892b0&icon_color=64ffda&show_icons=true" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Akbarali-Nagalpara/Inventory-system">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=Akbarali-Nagalpara&repo=Inventory-system&theme=github_dark_dimmed&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=64ffda&text_color=8892b0&icon_color=64ffda&show_icons=true" />
-</a>
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <br>
+      <h4>🔹 Endpoint-IQ</h4>
+      <p>API testing platform that imports OpenAPI specs, manages JWT authentication, and executes parallel endpoint tests.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Akbarali-Nagalpara/Endpoint-IQ"><b>View Repository ↗</b></a>
+      <br><br>
+    </td>
+    <td width="33%" valign="top">
+      <br>
+      <h4>🔹 BuySmart-AI</h4>
+      <p>Intelligent buying assistant platform built with robust backend infrastructure and REST API data pipelines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Akbarali-Nagalpara/BuySmart-ai"><b>View Repository ↗</b></a>
+      <br><br>
+    </td>
+    <td width="33%" valign="top">
+      <br>
+      <h4>🔹 Inventory Management</h4>
+      <p>Inventory management backend designed to securely handle stock operations, user sessions and relational data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Akbarali-Nagalpara/Inventory-system"><b>View Repository ↗</b></a>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -90,12 +112,12 @@ I enjoy designing APIs, databases and distributed systems with a focus on **reli
 
 <div align="center">
 
-![System Design](https://img.shields.io/badge/System%20Design-0a192f?style=for-the-badge&logoColor=64ffda&labelColor=112240&color=0a192f)
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-0a192f?style=for-the-badge&color=0a192f&labelColor=112240)
-![Database Optimization](https://img.shields.io/badge/Database%20Optimization-0a192f?style=for-the-badge&color=0a192f&labelColor=112240)
-![Caching](https://img.shields.io/badge/Caching-0a192f?style=for-the-badge&color=0a192f&labelColor=112240)
-![Event--Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-0a192f?style=for-the-badge&color=0a192f&labelColor=112240)
-![API Design](https://img.shields.io/badge/API%20Design-0a192f?style=for-the-badge&color=0a192f&labelColor=112240)
+![System Design](https://img.shields.io/badge/System%20Design-112240?style=for-the-badge&logoColor=64ffda)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-112240?style=for-the-badge)
+![Database Optimization](https://img.shields.io/badge/Database%20Optimization-112240?style=for-the-badge)
+![Caching](https://img.shields.io/badge/Caching-112240?style=for-the-badge)
+![Event--Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-112240?style=for-the-badge)
+![API Design](https://img.shields.io/badge/API%20Design-112240?style=for-the-badge)
 
 </div>
 
