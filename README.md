@@ -17,11 +17,11 @@ I am a software engineer focused on backend development, system design, and data
 
 ## Featured Projects
 
-**01. Ecommerce-Store**  
-Scalable e-commerce backend platform handling product catalog, inventory, cart management, and checkout processing.
-- **Engineering Concepts**: Clean Architecture, Relational Database Design, Transaction Management
-- **Tech Stack**: Java, Spring Boot, Hibernate, MySQL
-- [→ View Repository](https://github.com/Akbarali-Nagalpara/Ecommerce-Store)
+**01. BuySmart-ai**  
+Intelligent buying assistant platform built with robust backend infrastructure.
+- **Engineering Concepts**: REST API Interactions, Data Processing, System Integration
+- **Tech Stack**: TypeScript, Node.js
+- [→ View Repository](https://github.com/Akbarali-Nagalpara/BuySmart-ai)
 
 **02. Endpoint-IQ**  
 API testing platform that imports OpenAPI specs, manages JWT authentication, and executes parallel API tests.
