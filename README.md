@@ -1,70 +1,45 @@
-# AKBARALI NAGALPARA
-Software Engineer · Designer
+# Akbarali Nagalpara
+**Software Engineer | Backend Developer**
 
-I build thoughtful products and scalable systems.
-
-[GitHub](https://github.com/Akbarali-Nagalpara) · [LinkedIn](https://linkedin.com/in/akbaralinagalpara) · [Portfolio](https://akbarali.dev) · [Email](mailto:hello@akbarali.dev)
-
-<br><br>
-
-## Currently
-
-→ Building Endpoint-IQ  
-→ Exploring System Design  
-→ Learning Backend / Cloud / AI  
-
-<br><br>
-
-## Selected Work
-
-01  
-**Endpoint-IQ**  
-AI-driven API testing platform that imports OpenAPI specs, manages JWT auth, runs parallel API tests, and analyzes failures.  
-TypeScript · API Testing · AI  
-[→ View repository](https://github.com/Akbarali-Nagalpara/Endpoint-IQ)
+I build scalable backend systems, design resilient APIs, and focus on clean architecture.
 
 ---
 
-02  
-**BuySmart-ai**  
-An intelligent buying assistant.  
-TypeScript  
-[→ View repository](https://github.com/Akbarali-Nagalpara/BuySmart-ai)
+## About
+I am a software engineer focused on backend development, system design, and data architecture. I specialize in Java and Spring Boot, alongside Node.js and TypeScript, to build systems that are robust, maintainable, and scalable. I approach engineering with a focus on practical problem-solving, efficient database design, and creating reliable RESTful APIs.
 
----
+## Tech Stack
+- **Backend**: Java, Spring Boot, Node.js, TypeScript
+- **Databases**: PostgreSQL, MySQL, Redis
+- **APIs**: REST, OpenAPI/Swagger
+- **DevOps / Infra**: Docker, Linux, Git
+- **Tools**: Postman, IntelliJ, VS Code
 
-03  
-**Inventory-system**  
-Robust inventory management backend system with secure authentication.  
-TypeScript · MySQL · Vite  
-[→ View repository](https://github.com/Akbarali-Nagalpara/Inventory-system)
+## Featured Projects
 
-<br><br>
+**01. Ecommerce-Store**  
+Scalable e-commerce backend platform handling product catalog, inventory, cart management, and checkout processing.
+- **Engineering Concepts**: Clean Architecture, Relational Database Design, Transaction Management
+- **Tech Stack**: Java, Spring Boot, Hibernate, MySQL
+- [→ View Repository](https://github.com/Akbarali-Nagalpara/Ecommerce-Store)
 
-## Tech
+**02. Endpoint-IQ**  
+API testing platform that imports OpenAPI specs, manages JWT authentication, and executes parallel API tests.
+- **Engineering Concepts**: REST API Interactions, Asynchronous Processing, Automated Testing
+- **Tech Stack**: TypeScript, Node.js
+- [→ View Repository](https://github.com/Akbarali-Nagalpara/Endpoint-IQ)
 
-TypeScript · JavaScript · Java · Python  
-React · Spring Boot · Node.js  
-PostgreSQL · MySQL · Redis · Docker · Git  
+**03. Inventory-system**  
+Inventory management backend designed to securely handle stock operations and authentication workflows.
+- **Engineering Concepts**: Security / Authentication, CRUD Operations, Database Architecture
+- **Tech Stack**: TypeScript, Node.js, MySQL
+- [→ View Repository](https://github.com/Akbarali-Nagalpara/Inventory-system)
 
-<br><br>
-
-## Interested In
-
-Backend Engineering · System Design · AI · Developer Experience  
-
-<br><br>
-
-## GitHub
-
-[github.com/Akbarali-Nagalpara](https://github.com/Akbarali-Nagalpara)
-
-<br><br>
+## Engineering Focus
+- **Backend Engineering**: Developing robust microservices and monoliths using Java and Spring Boot.
+- **System Design**: Architecting for scalability, performance, and reliability.
+- **Database Design**: SQL optimization, schema design, and data integrity.
+- **API Design**: Building secure, well-documented, and intuitive RESTful APIs.
 
 ## Connect
-
-[LinkedIn](https://linkedin.com/in/akbaralinagalpara) · [Portfolio](https://akbarali.dev) · [Email](mailto:hello@akbarali.dev) · [GitHub](https://github.com/Akbarali-Nagalpara)
-
-<br><br>
-
-Thanks for stopping by.
+[GitHub](https://github.com/Akbarali-Nagalpara) · [LinkedIn](https://linkedin.com/in/akbaralinagalpara) · [Portfolio](https://akbarali.dev) · [Email](mailto:hello@akbarali.dev)
