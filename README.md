@@ -1,4 +1,4 @@
-# Hey, I'm Akbarali 👋
+# Hey, I'm Akbarali 
 
 `Software Engineer • Backend Developer`
 
